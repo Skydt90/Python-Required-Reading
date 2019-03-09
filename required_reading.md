@@ -1,6 +1,11 @@
 # Required Reading 
 
+* [3. an informal introduction to python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
+* [3.1. using python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
+* [3.1.1. numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
+* [3.1.2. strings](https://docs.python.org/3.7/tutorial/introduction.html#strings)
 * [3.1.3. lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+* [4.1. if statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 * [4.2. for statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [4.3. the range() function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
 * [5.1. more on lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
@@ -22,8 +27,11 @@
 * [learning objectives](/other_materials/learning_objectives.md)
 * [mandatory assignment: required reading exercise](https://github.com/python-elective-1-spring-2019/lesson-07-required-reading-exercise/blob/master/exercises/readme.md)
 * [open](https://docs.python.org/3/library/functions.html#open)
+* [python string formatting best practices](https://realpython.com/python-string-formatting/)
 * [set types — set, frozenset](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
 * [sorting how to](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
+* [string methods](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
+* [text sequence type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [the markdown syntax](other_materials/markdown.md)
 * [unix commands](/other_materials/unix_commands.md)
 * [file object](https://docs.python.org/3/glossary.html#term-file-object)
