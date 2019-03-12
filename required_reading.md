@@ -1,5 +1,6 @@
 # Required Reading 
   > Python Elective I Spring 2019
+* [* kshfkjfkhskjdhdskjhjsfjdf
 * [3. an informal introduction to python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. using python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
 * [3.1.1. numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
