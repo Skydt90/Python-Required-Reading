@@ -1,6 +1,8 @@
 # Required Reading 
   > Python Elective I Spring 2019
 * [* kshfkjfkhskjdhdskjhjsfjdf
+* [-->
+* [11.5. logging] (https://docs.python.org/3.7/tutorial/stdlib2.html#logging)
 * [12. virtual environments and packages](https://docs.python.org/3/tutorial/venv.html)
 * [3. an informal introduction to python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. using python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
@@ -23,6 +25,8 @@
 * [8.4. the try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
 * [8.5. the with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [9. classes](https://docs.python.org/3/tutorial/classes.html)
+* [<!--
+* [Docstring conventions](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring)
 * [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 * [Exercise: unix commands](/exercises/unix_commands.md)
 * [File object](https://docs.python.org/3/glossary.html#term-file-object)
@@ -32,6 +36,7 @@
 * [Installing packages](https://packaging.python.org/tutorials/installing-packages/)
 * [Learning objectives](/other_materials/learning_objectives.md)
 * [Mandatory assignment: required reading exercise](https://github.com/python-elective-1-spring-2019/lesson-07-required-reading-exercise/blob/master/exercises/readme.md)
+* [Math — mathematical functions](https://docs.python.org/3.7/library/math.html)
 * [Object-oriented programming (oop) in python 3](https://realpython.com/python3-object-oriented-programming/)
 * [Object.__dict__](https://docs.python.org/3/library/stdtypes.html#object.__dict__)
 * [Object.__repr__(self)](https://docs.python.org/3/reference/datamodel.html#object.__repr__)
@@ -45,6 +50,7 @@
 * [Subprocess — subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
 * [Text sequence type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [The markdown syntax](other_materials/markdown.md)
+* [The ultimate guide to python type checking](https://realpython.com/python-type-checking/#duck-typing)
 * [Unittest](https://docs.python.org/3.7/library/unittest.html)
 * [Unix commands](/other_materials/unix_commands.md)
 * [Urllib — url handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
