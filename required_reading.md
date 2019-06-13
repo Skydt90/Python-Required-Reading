@@ -1,6 +1,7 @@
 # Required Reading 
   > Python Elective I Spring 2019
 * [* kshfkjfkhskjdhdskjhjsfjdf
+* [* required reading for the algorithms we have worked with the last 2 weeks will come ...
 * [*args and **kwargs in python explained](https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/)
 * [-->
 * [11.5. logging] (https://docs.python.org/3.7/tutorial/stdlib2.html#logging)
@@ -36,6 +37,7 @@
 * [9.8. iterators](https://docs.python.org/3/tutorial/classes.html#iterators)
 * [9.9. generators](https://docs.python.org/3/tutorial/classes.html#generators)
 * [<!--
+* [<!-- https://www.python.org/dev/peps/pep-0318/#background -->
 * [<a href="https://www.youtube.com/watch?v=xku_sedaykw&t=379s"><img src="src/google_job_interview.png">
 * [Context manager types](https://docs.python.org/3.7/library/stdtypes.html#context-manager-types)
 * [Contextlib — utilities for with-statement contexts](https://docs.python.org/3.7/library/contextlib.html)
@@ -53,6 +55,7 @@
 * [Learning objectives](/other_materials/learning_objectives.md)
 * [Make a readme](https://www.makeareadme.com/)
 * [Mandatory assignment: required reading exercise](https://github.com/python-elective-1-spring-2019/lesson-07-required-reading-exercise/blob/master/exercises/readme.md)
+* [Map, filter and reduce](http://book.pythontips.com/en/latest/map_filter.html)
 * [Math — mathematical functions](https://docs.python.org/3.7/library/math.html)
 * [Next](https://docs.python.org/3/library/functions.html#next)
 * [Object-oriented programming (oop) in python 3](https://realpython.com/python3-object-oriented-programming/)
@@ -62,6 +65,9 @@
 * [Open](https://docs.python.org/3/library/functions.html#open)
 * [Os — miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
 * [Pickle — python object serialization](https://docs.python.org/3.7/library/pickle.html?highlight=pickle#module-pickle)
+* [Primer on python decorators](https://realpython.com/primer-on-python-decorators/)
+* [Python @property](https://www.programiz.com/python-programming/property)
+* [Python reduce() function](https://thepythonguru.com/python-builtin-functions/reduce/)
 * [Python string formatting best practices](https://realpython.com/python-string-formatting/)
 * [Reading and writing csv files in python](https://realpython.com/python-csv/)
 * [Requirements tutorial](materials/tutorial_requirements_pip_freeze.md)
@@ -79,3 +85,5 @@
 * [Urllib — url handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
 * [Urllib.request — extensible library for opening urls](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
 * [Virtual enviroment setup ](materials/virtual_enviroment_setup.md)
+* [Visual sorting pdf](sorting.pdf)
+* []()
